@@ -1,1 +1,2 @@
-# os-practicals
+# OS Practicals
+This repo contains the OS practicals for you... just copy paste or do whatever you want...
